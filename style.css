@@ -116,9 +116,9 @@ nav button {
 .row {
 	display: flex;
 	width: 100%;
+	align-items: center;
 	flex-wrap: wrap;
 	padding: 50px 0;
-	flex-direction: row;
 }
 
 .text-col {
@@ -131,7 +131,7 @@ nav button {
 	margin-bottom: 20px;
 }
 
-.imgcol img {
+.img-col img {
 	display: block;
 	width: 90%;
 	margin: auto;
@@ -242,6 +242,10 @@ input[type="radio"] {
 }
 .footer .row{
 	align-items: flex-start;
+}
+.footer p a {
+	text-decoration: none;
+	color: #777;
 }
 .copyright-txt{
 	font-size: 14px;

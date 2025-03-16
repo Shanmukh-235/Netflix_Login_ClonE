@@ -3,3 +3,4 @@ Started with the netflix clone web page, just added the header section buttons a
 17/3/2025
 continued with work again, done with faq section
 -- added footer section, need to be update CSS
+-- added responsiveness too
