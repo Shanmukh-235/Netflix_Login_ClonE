@@ -243,3 +243,8 @@ input[type="radio"] {
 .footer .row{
 	align-items: flex-start;
 }
+.copyright-txt{
+	font-size: 14px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
